@@ -6,6 +6,6 @@ DevOps and cloud. Currently leading our foray into open source development at RB
 I'm based in Toronto, Canada.
 ```
 
-Come join me and other like-minded individuals over at [Hachyderm.io](https://hachyderm.io) on <a rel="me" href="https://hachyderm.io/@coopernetes">Mastodon</a>..
+Come join me and other like-minded individuals over at [Hachyderm.io](https://hachyderm.io) on <a rel="me" href="https://hachyderm.io/@coopernetes">Mastodon</a>.
 
 Big shout out to @krisnova and the team that runs the instance ♥️
