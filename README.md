@@ -1,11 +1,9 @@
 ```
-Howdy y'all! I'm Tom, I write some code and fiddle with computers for a living.
-I have a good amount of experience with TCP/IP, HTTP APIs, Linux, config management,
-DevOps and cloud. Currently leading our foray into open source development at RBC 
-
-I'm based in Toronto, Canada.
+Howdy y'all! I'm Tom, I write some code, have plenty of opinions and fiddle with computers for a living.
+I have a good amount of experience with TCP/IP, APIs, Linux, config management,
+DevOps, containers and cloud. Currently leading a small dev team in the OSPO at a major bank in Toronto, Canada.
 ```
 
-Come join me and other like-minded individuals over at [Hachyderm.io](https://hachyderm.io) on <a rel="me" href="https://hachyderm.io/@coopernetes">Mastodon</a>.
+I'm not really active on the socials except for posting at [Hachyderm.io](https://hachyderm.io) on <a rel="me" href="https://hachyderm.io/@coopernetes">Mastodon</a>.
 
-Big shout out to @krisnova and the team that runs the instance ♥️
+Big shout out to [@krisnova](https://github.com/krisnova) and the hachyderm infra & mod crew ♥️
