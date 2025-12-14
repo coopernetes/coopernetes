@@ -1,5 +1,10 @@
-Howdy y'all! I'm Tom - I write some code, have plenty of opinions and fiddle with computers for a living.
-I have a healthy amount of experience with TCP/IP, REST APIs, Linux, infrastructure, DevOps, containers 
-and cloud. Currently leading the Open Source Program Office at Royal Bank of Canada in Toronto, Canada.
+Hiya, my name is Tom! I orchestrate computers to do things (usually with other computers) for a living.
+I'm passionate about software development, open technology & social justice, music,
+video games, art, nature, language and history.
 
-I'm not really active on the socials except for posting at [Hachyderm.io](https://hachyderm.io) on <a rel="me" href="https://hachyderm.io/@coopernetes">Mastodon</a>.
+- Specialize in DevOps, platform engineering & full-stack development.
+- Former network engineer, Java developer & cloud architect. Quite literally up and down the stack.
+- Currently leading the Open Source Program Office & building our internal developer platform on [Backstage](https://backstage.io/) at Royal Bank of Canada.
+
+You can also find me on [Hachyderm](https://hachyderm.io) (<a rel="me" href="https://hachyderm.io/@coopernetes">🐘 Mastodon</a>) & [🦋 Bluesky](https://bsky.app/profile/coopernetes.bsky.social).
+
